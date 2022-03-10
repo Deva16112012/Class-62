@@ -1,0 +1,29 @@
+.d{
+    height:6px;
+    background-color: aqua;
+    width:70px;
+    margin:8px auto;
+    }
+    body{
+        text-align: center;  
+    }
+#s1{
+    background-color:blue;
+    color:whitesmoke;
+}
+#s2{
+    background-color: blueviolet;
+    color:aquamarine;
+}
+#s3{
+    background-color:burlywood;
+    color: cornflowerblue;
+}
+.carousel-inner p{
+    font-size:20px;
+    margin-top:15px;
+    color:fuchsia;
+}
+#z img{
+    margin-top:35px;
+}
